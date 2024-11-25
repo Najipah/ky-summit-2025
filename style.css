@@ -91,7 +91,7 @@ h1{
 }
 
 body{
-    background: url('img/front_page_final.png') no-repeat;
+    background: url('front_page_final.png') no-repeat;
     background-size: cover;
     height: 100vh;
 }
